@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software testing, python and django
 - 💞️ I’m looking to collaborate on anyone who can teach me something
 - 📫 How to reach me: 
-  * E-mail: natalia.jasiczak96@gmail.com <\b >
+  * E-mail: natalia.jasiczak96@gmail.com
   * LinkedIn: https://www.linkedin.com/in/natalia-jasiczak-68b36923b/
 
 <!---
