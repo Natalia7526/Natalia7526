@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia
-- 👀 I’m interested in creating an application
+- 👀 I’m interested in creating and testing an application
 - 🌱 I’m currently learning software testing, python and django
 - 💞️ I’m looking to collaborate on anyone who can teach me something
 - 📫 How to reach me: 
