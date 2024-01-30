@@ -21,6 +21,6 @@ Feel free to explore my GitHub repositories, where I share my automation project
 
 ## Contact
 
-If you have any questions or would like to connect, you can reach out to me via [LinkedIn]([your_linkedin_profile](https://www.linkedin.com/in/natalia-jasiczak-knop-68b36923b/)https://www.linkedin.com/in/natalia-jasiczak-knop-68b36923b/)
+If you have any questions or would like to connect, you can reach out to me via https://www.linkedin.com/in/natalia-jasiczak-knop-68b36923b/
 
 Happy testing! 🚀
