@@ -2,25 +2,22 @@
 
 Hello! 👋 I'm Natalia, a certified tester with one and a half years of experience in the DTV (Digital Television) industry. I have a strong background in testing methodologies, particularly in the Scrum/Agile framework.
 
-## Professional Background
+ROZWINĄĆ SEKCJĘ ABOUT ME
 
-- **Experience:** Over 1.5 years in the DTV industry.
-- **Certification:** ISTQB Foundation Level 
-- **Methodologies:** Worked extensively with Scrum/Agile methodologies.
-- **Testing Focus:** Specialized in manual testing of Set Top Boxes, with a focus on smoke tests, regression tests, and functional tests.
-- **Tools:** Jira, DevTools, Kibana, Confluence
-## Current Focus
 
-I am currently expanding my skill set into the realm of automation. Here are some of my current endeavors:
+# EXPERIENCE
 
-- **Automation Tools:** Currently delving into automation with Selenium, Robot Framework, and Postman.
-- **Analytical Mindset:** I possess an analytical mindset, which aids in problem-solving and efficient testing processes.
-- **Group Collaboration:** Skilled in working collaboratively within a team.
+# TOOLS
 
-Feel free to explore my GitHub repositories, where I share my automation projects and testing adventures.
+# PROJECTS
+odnośniki do projektu ze SPOTIFY API - screeny, grafiki, gify, pełna dokumnetacja 
 
-## Contact
 
-If you have any questions or would like to connect, you can reach out to me via https://www.linkedin.com/in/natalia-jasiczak-knop-68b36923b/
+projekt 100 dni z Pythonem 
 
-Happy testing! 🚀
+
+jakiś projekt z SQL'a 
+
+
+
+projekt z Selenium ! najlepiej plus robot framework 
