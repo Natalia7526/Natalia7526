@@ -49,8 +49,7 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 </center>
 
-
-# PROJECTS
+# 🚀 PROJECTS
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 • [Robotframework tutorial](https://github.com/Natalia7526/Robotframework_tutorial)
@@ -81,7 +80,7 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [FreeCodeCamp SQL tutorial](https://github.com/Natalia7526/FreeCodeCamp/tree/main/SQL)
 
-# CERTIFICATES AND BADGES
+# 🎓 CERTIFICATES AND BADGES
 ![Testing-Library](https://img.shields.io/badge/Testing-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 • [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-7c692f6f-d699-486c-bdfc-780570de9558/)
