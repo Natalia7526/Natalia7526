@@ -51,17 +51,32 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 **Additional:** Kibana, OTT apps
 
 # PROJECTS
-odnośniki do projektu ze SPOTIFY API - screeny, grafiki, gify, pełna dokumnetacja 
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+• [Robotframework tutorial](https://github.com/Natalia7526/Robotframework_tutorial)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+• [100 Days of Code The Complete Python Pro Bootcamp for 2023](https://github.com/Natalia7526/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-for-2023)
+
+• [FreeCodeCamp Python tutorial](https://github.com/Natalia7526/FreeCodeCamp/tree/main/Python)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+• [Valentino Artisan Coffee House API](https://github.com/Natalia7526/Software-tester/tree/main/Automated%20API%20Testing/Postman%20API%20Test%20Automation%20for%20Beginners)
 
 
-projekt 100 dni z Pythonem 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
+• [DRF tutorial](https://github.com/Natalia7526/DRF_tutorial)
 
-jakiś projekt z SQL'a 
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-2.9.0-brightgreen?style=for-the-badge)
 
+• [REST API Testing Automation from Scratch Rest Assured Java](https://github.com/Natalia7526/Rest-API-Testing-Automation-from-Scratch-Rest-Assured-Java)
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-projekt z Selenium ! najlepiej plus robot framework 
+• [FreeCodeCamp SQL tutorial](https://github.com/Natalia7526/FreeCodeCamp/tree/main/SQL)
 
 # CERTIFICATES AND BADGES
 ![Testing-Library](https://img.shields.io/badge/Testing-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
