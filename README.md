@@ -65,6 +65,9 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [Valentino Artisan Coffee House API](https://github.com/Natalia7526/Software-tester/tree/main/Automated%20API%20Testing/Postman%20API%20Test%20Automation%20for%20Beginners)
 
+• [Spotify API testing](https://github.com/Natalia7526/Software-tester/tree/main/Automated%20API%20Testing/Spotify%20API%20Testing)
+
+• [30 Days of Postman Coding Challenge for Developers](https://github.com/Natalia7526/Software-tester/tree/main/Automated%20API%20Testing/30%20Days%20of%20Postman%20Coding%20Challenge%20for%20Developers)
 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
