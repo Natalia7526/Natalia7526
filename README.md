@@ -1,6 +1,6 @@
 # 🖊️ About Me
 
-Hello! 👋 I'm Natalia, a certified tester with **1,5 years of experience** in the DTV (Digital Television) industry. As a Junior QA Engineer in CPE team, I actively contribute to our Scrum/Agile methodology, focusing on manual software testing for Set Top Boxes (STB). My responsibilities include conducting various tests such as smoke and regression tests, ensuring the software aligns with specifications. My role emphasizes software quality and customer satisfaction, involving the identification of operational abnormalities and bug reporting.
+Hello! 👋 I'm Natalia, a certified tester with **1,5 years of experience** in the DTV (Digital Television) industry. As a Junior QA Engineer in CPE team, I actively contribute with Scrum/Agile methodology, focusing on manual software testing for Set Top Boxes (STB). My responsibilities include conducting various tests such as smoke and regression tests, ensuring the software aligns with specifications. My role emphasizes software quality and customer satisfaction, involving the identification of operational abnormalities and bug reporting.
 
 Outside of work, I am dedicated to enhancing my skills in automation. I am currently learning Python, Selenium, and Robot Framework, and I am on the lookout for opportunities with companies and projects that can support my growth. With an analytical mindset, I excel in precision tasks. In my leisure time, I find relaxation in cooking and dancing.
 
