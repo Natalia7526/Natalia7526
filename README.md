@@ -39,7 +39,7 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome%20Devtools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -76,7 +76,7 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [REST API Testing Automation from Scratch Rest Assured Java](https://github.com/Natalia7526/Rest-API-Testing-Automation-from-Scratch-Rest-Assured-Java)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 • [FreeCodeCamp SQL tutorial](https://github.com/Natalia7526/FreeCodeCamp/tree/main/SQL)
 
@@ -95,7 +95,7 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [API Test Automation](https://badgr.com/public/assertions/KPNcqELoSwySEJJDAPGdOA?identity__email=natalia.jasiczak96@gmail.com)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 • [Intro to SQL](https://www.kaggle.com/learn/certification/nataliajasiczak/intro-to-sql)
 
