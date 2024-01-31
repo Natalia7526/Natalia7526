@@ -72,7 +72,7 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [DRF tutorial](https://github.com/Natalia7526/DRF_tutorial)
 
-![Rest Assured](https://img.shields.io/badge/Rest_Assured-2.9.0-brightgreen?style=for-the-badge)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured?style=for-the-badge)
 
 • [REST API Testing Automation from Scratch Rest Assured Java](https://github.com/Natalia7526/Rest-API-Testing-Automation-from-Scratch-Rest-Assured-Java)
 
