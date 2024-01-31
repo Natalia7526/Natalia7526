@@ -54,6 +54,8 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [Robotframework tutorial](https://github.com/Natalia7526/Robotframework_tutorial)
 
+• [Selenium WebDriver with Java](https://github.com/Natalia7526/Selenium-WebDriver-with-Java--Basics-to-Advanced-Frameworks)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 • [100 Days of Code The Complete Python Pro Bootcamp for 2023](https://github.com/Natalia7526/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-for-2023)
