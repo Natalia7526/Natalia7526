@@ -97,6 +97,8 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [API Test Automation](https://badgr.com/public/assertions/KPNcqELoSwySEJJDAPGdOA?identity__email=natalia.jasiczak96@gmail.com)
 
+• [30 days of Postman - for developers](https://badgr.com/public/assertions/tQ45DeP6T52ODmvrLc1UTQ?identity__email=natalia.jasiczak96@gmail.com&action=download)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 • [Intro to SQL](https://www.kaggle.com/learn/certification/nataliajasiczak/intro-to-sql)
