@@ -103,6 +103,8 @@ Outside of work, I am dedicated to enhancing my skills in automation. I am curre
 
 • [Intro to SQL](https://www.kaggle.com/learn/certification/nataliajasiczak/intro-to-sql)
 
+• [The Complete SQL Bootcamp: Go from Zero to Hero](https://udemy-certificate.s3.amazonaws.com/pdf/UC-da3e16d9-a26f-4213-a96b-47740cd691c4.pdf)
+
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 • [Robot Framework Test Automation - Level 1 (Selenium)](https://www.udemy.com/certificate/UC-4eb13aa5-0598-4021-84c2-9347a344c15b/)
